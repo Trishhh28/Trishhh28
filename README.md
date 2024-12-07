@@ -46,7 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A43C?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />

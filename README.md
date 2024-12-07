@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Trishhh28/SIEM-Project">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Port scanning with NMAP and Kali Linux         | SOC Automation Lab|
+| Port scanning with NMAP and Kali Linux         |  <a href="https://github.com/Trishhh28/port-scanning/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools

@@ -56,5 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href= "https://github.com/Trishhh28/Cryptography-Project">-Cryptography</a>
-- <a href="[https://github.com/Trishhh28/port-scanning](https://github.com/Trishhh28/Port-Scanner-Python/tree/main)">-Port scanner-Python</a>
+- <a href="https://github.com/Trishhh28/Port-Scanner-Python/tree/main">-Port scanner-Python</a>
 - <a href="https://github.com/Trishhh28/Keylogger-Project">-Keylogger</a>
